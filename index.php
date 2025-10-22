@@ -42,7 +42,7 @@ $pageTitle = "Div's Burguer - Hamburgueria Online";
         }
         
         .btn-comprar:hover {
-            background-color: #0d0c0cff;
+            background-color: #ff0000ff;
         }
     </style>
 </head> 
